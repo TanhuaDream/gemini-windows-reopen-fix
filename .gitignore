@@ -1,0 +1,6 @@
+backups/
+*.asar
+*.exe
+*.log
+*.tmp
+*.zip
